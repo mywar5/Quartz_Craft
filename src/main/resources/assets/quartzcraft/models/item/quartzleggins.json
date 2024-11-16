@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "quartzcraft:items/quartz_leggings"
+  }
+}

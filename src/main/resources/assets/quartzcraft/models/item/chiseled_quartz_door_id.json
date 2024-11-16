@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "quartzcraft:items/chiseled_quartz_door_id"
+  }
+}
