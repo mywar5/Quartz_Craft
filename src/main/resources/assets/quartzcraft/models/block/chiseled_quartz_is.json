@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "side": "quartzcraft:blocks/quartz_block_chiseled_is",
+        "end": "quartzcraft:blocks/quartz_block_chiseled_is_top"
+    }
+}

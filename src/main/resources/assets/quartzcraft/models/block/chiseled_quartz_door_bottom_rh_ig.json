@@ -1,0 +1,8 @@
+{
+  "parent": "quartzcraft:block/qc_door_bottom_rh",
+  "textures": {
+    "front": "quartzcraft:blocks/chiseled_quartz_door_ig_lower",
+    "side": "quartzcraft:blocks/chiseled_quartz_door_ig_side"
+  }
+}
+

@@ -1,0 +1,6 @@
+{
+  "parent": "block/wall_post",
+  "textures": {
+    "wall": "quartzcraft:blocks/quartz_block_chiseled_top"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "quartzcraft:blocks/quartz_block_chiseled_is_top",
+    "top": "quartzcraft:blocks/quartz_block_chiseled_is_top",
+    "side": "quartzcraft:blocks/quartz_block_chiseled_is"
+  }
+}

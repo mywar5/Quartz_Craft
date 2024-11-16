@@ -1,0 +1,6 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "quartzcraft:blocks/quartz_block_chiseled_is"
+  }
+}

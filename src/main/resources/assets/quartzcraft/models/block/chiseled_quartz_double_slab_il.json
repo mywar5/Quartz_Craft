@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "quartzcraft:blocks/quartz_block_chiseled_il",
+    "down": "quartzcraft:blocks/quartz_block_chiseled_il_top",
+    "up": "quartzcraft:blocks/quartz_block_chiseled_il_top",
+    "north": "quartzcraft:blocks/quartz_block_chiseled_il",
+    "east": "quartzcraft:blocks/quartz_block_chiseled_il",
+    "south": "quartzcraft:blocks/quartz_block_chiseled_il",
+    "west": "quartzcraft:blocks/quartz_block_chiseled_il"
+  }
+}
