@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal":   { "model": "quartzcraft:smooth_quartz" }
+    }
+}

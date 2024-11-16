@@ -1,0 +1,6 @@
+{
+  "variants":
+  {
+    "normal": { "model": "quartzcraft:quartz_id_ore" }
+  }
+}

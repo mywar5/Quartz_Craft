@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "half=bottom": { "model": "quartzcraft:half_slab_chiseled_quartz" },
+    "half=top": { "model": "quartzcraft:upper_slab_chiseled_quartz" }
+  }
+}
