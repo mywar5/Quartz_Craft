@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "quartzcraft:blocks/quartz_block_smooth_side",
+    "down": "quartzcraft:blocks/quartz_block_smooth_bottom",
+    "up": "quartzcraft:blocks/quartz_block_smooth_top",
+    "north": "quartzcraft:blocks/quartz_block_smooth_side",
+    "east": "quartzcraft:blocks/quartz_block_smooth_side",
+    "south": "quartzcraft:blocks/quartz_block_smooth_side",
+    "west": "quartzcraft:blocks/quartz_block_smooth_side"
+  }
+}

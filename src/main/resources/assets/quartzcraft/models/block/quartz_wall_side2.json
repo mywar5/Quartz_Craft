@@ -1,0 +1,6 @@
+{
+    "parent": "quartzcraft:block/wall_side2",
+    "textures": {
+        "wall": "quartzcraft:blocks/quartz_block_side"
+    }
+}

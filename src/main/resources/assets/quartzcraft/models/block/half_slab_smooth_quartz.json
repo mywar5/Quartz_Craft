@@ -1,0 +1,8 @@
+{
+  "parent": "block/half_slab",
+  "textures": {
+    "bottom": "quartzcraft:blocks/quartz_block_smooth_top",
+    "top": "quartzcraft:blocks/quartz_block_smooth_top",
+    "side": "quartzcraft:blocks/quartz_block_smooth_side"
+  }
+}

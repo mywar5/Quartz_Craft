@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "quartzcraft:blocks/lapis_block",
+    "down": "quartzcraft:blocks/lapis_block",
+    "up": "quartzcraft:blocks/lapis_block",
+    "north": "quartzcraft:blocks/lapis_block",
+    "east": "quartzcraft:blocks/lapis_block",
+    "south": "quartzcraft:blocks/lapis_block",
+    "west": "quartzcraft:blocks/lapis_block"
+  }
+}
