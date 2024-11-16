@@ -1,0 +1,81 @@
+tile.quartz_wall.name=Quartz Wall
+tile.quartz_wall2.name=Quartz Wall(Type2)
+tile.quartz_fence.name=Quartz Fence
+tile.quartz_door.name=Quartz Door
+tile.quartz_pillar.name=Quartz Pillar
+
+tile.chiseled_quartz_wall.name=Chiseled Quartz Wall
+tile.chiseled_quartz_wall2.name=Chiseled Quartz Wall(Type 2)
+tile.chiseled_quartz_fence.name=Chiseled Quartz Fence
+tile.chiseled_quartz_half_slab.name=Chiseled Quartz Slab
+tile.chiseled_quartz_stairs.name=Chiseled Quartz Stairs
+tile.chiseled_quartz_pillar.name=Chiseled Quartz Pillar
+tile.chiseled_quartz_door.name=Chiseled Quartz Door
+
+tile.chiseled_quartz_wall_id.name=Chiseled Quartz Wall Inlay Diamond
+tile.chiseled_quartz_wall_id2.name=Chiseled Quartz Wall Inlay Diamond(Type 2)
+tile.chiseled_quartz_fence_id.name=Chiseled Quartz Fence Inlay Diamond
+tile.chiseled_quartz_half_slab_id.name=Chiseled Quartz Slab Inlay Diamond
+tile.chiseled_quartz_stairs_id.name=Chiseled Quartz Stairs Inlay Diamond
+tile.chiseled_quartz_pillar_id.name=Chiseled Quartz Pillar Inlay Diamond
+tile.chiseled_quartz_door_id.name=Chiseled Quartz Door Inlay Diamond
+tile.chiseled_quartz_id.name=Chiseled Quartz Inlay Diamond
+
+tile.chiseled_quartz_wall_ig.name=Chiseled Quartz Wall Inlay Gold
+tile.chiseled_quartz_wall_ig2.name=Chiseled Quartz Wall Inlay Gold(Type 2)
+tile.chiseled_quartz_fence_ig.name=Chiseled Quartz Fence Inlay Gold
+tile.chiseled_quartz_half_slab_ig.name=Chiseled Quartz Slab Inlay Gold
+tile.chiseled_quartz_stairs_ig.name=Chiseled Quartz Stairs Inlay Gold
+tile.chiseled_quartz_pillar_ig.name=Chiseled Quartz Pillar Inlay Gold
+tile.chiseled_quartz_door_ig.name=Chiseled Quartz Door Inlay Gold
+tile.chiseled_quartz_ig.name=Chiseled Quartz Inlay Gold
+
+tile.chiseled_quartz_wall_il.name=Chiseled Quartz Wall Inlay Lapis
+tile.chiseled_quartz_wall_il2.name=Chiseled Quartz Wall Inlay Lapis(Type 2)
+tile.chiseled_quartz_fence_il.name=Chiseled Quartz Fence Inlay Lapis
+tile.chiseled_quartz_half_slab_il.name=Chiseled Quartz Slab Inlay Lapis
+tile.chiseled_quartz_stairs_il.name=Chiseled Quartz Stairs Inlay Lapis
+tile.chiseled_quartz_pillar_il.name=Chiseled Quartz Pillar Inlay Lapis
+tile.chiseled_quartz_door_il.name=Chiseled Quartz Door Inlay Lapis
+tile.chiseled_quartz_il.name=Chiseled Quartz Inlay Lapis
+
+tile.chiseled_quartz_wall_is.name=Chiseled Quartz Wall Inlay Silver
+tile.chiseled_quartz_wall_is2.name=Chiseled Quartz Wall Inlay Silver(Type 2)
+tile.chiseled_quartz_fence_is.name=Chiseled Quartz Fence Inlay Silver
+tile.chiseled_quartz_half_slab_is.name=Chiseled Quartz Slab Inlay Silver
+tile.chiseled_quartz_stairs_is.name=Chiseled Quartz Stairs Inlay Silver
+tile.chiseled_quartz_pillar_is.name=Chiseled Quartz Pillar Inlay Silver
+tile.chiseled_quartz_door_is.name=Chiseled Quartz Door Inlay Silver
+tile.chiseled_quartz_is.name=Chiseled Quartz Inlay Silver
+
+
+tile.quartzid_ore.name=Quartz Inlay Diamond Ore
+
+
+tile.smooth_quartz.name=Smooth Quartz Block
+tile.smooth_quartz_half_slab.name=Smooth Quartz Slab
+tile.smooth_quartz_stairs.name=Smooth Quartz Stairs
+tile.smooth_quartz_pillar.name=Smooth Quartz Pillar
+
+tile.lapis_wall.name=Lapis Wall
+tile.lapis_wall2.name=Lapis Wall(Type 2)
+tile.lapis_half_slab.name=Lapis Half Slab
+tile.lapis_stairs.name=Lapis Stairs
+tile.lapis_pillar.name=Lapis Pillar
+tile.lapis_fence.name=Lapis Fence
+
+item.quartz_boots.name=Quartz Boots
+item.quartz_helmet.name=Quartz Helmet
+item.quartz_chestplate.name=Quartz Chestplate
+item.quartz_leggins.name=Quartz Leggings
+
+item.quartz_sword.name=Quartz Sword
+item.quartz_axe.name=Quartz Axe
+item.quartz_Spade.name=Quartz Spade
+item.quartz_pickaxe.name=Quartz Pickaxe
+item.quartz_Knife.name=Quartz Knife
+item.quartz_hoe.name=Quartz Hoe
+
+item.quartz_id.name=Quartz ID
+
+
